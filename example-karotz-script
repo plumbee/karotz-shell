@@ -1,0 +1,6 @@
+ears left=-1000&right=5000&relative=true
+led action=light&color=00FF00
+multimedia action=play&url=http%3A%2F%2Fs3.amazonaws.com%2Fplumbee%2ecom%2Fjenkins%2Fyeahifeelgood%2Emp3
+sleep 40
+multimedia action=play&url=http%3A%2F%2Fs3.amazonaws.com%2Fplumbee%2ecom%2Fjenkins%2Fyeahifeelgood%2Emp3
+sleep 40

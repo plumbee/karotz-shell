@@ -1,0 +1,20 @@
+<descriptor>
+  <version>0.0.2</version>
+  <accesses>
+    <access>led</access>
+    <access>ears</access>
+    <access>tts</access>
+    <access>button</access>
+    <access>webcam</access>
+    <access>asr</access>
+    <access>http</access>
+    <access>multimedia</access>
+  </accesses>
+  <editor>Simon Loader</editor>
+  <asrName>Plumbee State</asrName>
+  <deployment>external</deployment>
+  <multiConf>false</multiConf>
+  <parameters>
+    <parameter key="showInstallUuid" value="true"/>
+  </parameters>
+</descriptor>
