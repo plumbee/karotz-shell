@@ -19,7 +19,7 @@ see: http://dev.karotz.com/api/
 
 ## Copyright and license
 
-Copyright 2013 Plumbee
+Copyright 2015 Plumbee Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
